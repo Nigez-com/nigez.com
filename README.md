@@ -1,3 +1,3 @@
 # negez.com
 search engine
-https://www.negez.com/
+https://www.nigez.com/
