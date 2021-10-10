@@ -47,5 +47,23 @@ return $strings = array(
     "bashkir"=>"bashkir",
     "TATDig on Facebook"=>"TATDig on Facebook",
     "#tsefp#"=>"TATDig search engine Facebook Page",
+    "#wryl#"=>"We received your letter",
+    "Thank you"=>"Thank you",
+    "An error occurred"=>"An error occurred",
+    "Cannot search"=>"Cannot search",
+    "not found while searching"=>"not found while searching",
+    "Describe problem here"=>"Describe problem here",
+    "If you know, tell us where to find it"=>"If you know, tell us where to find it",
+    "Write the link here"=>"Write the link here",
+    "Type the word from the picture here"=>"Type the word from the picture here",
+    "Send"=>"Send",
+    "Your link or word from picture is incorrect"=>"Your link or word from picture is incorrect",
+    'While searching %s found %s internet pages. %s'=>'While searching %s found %s internet pages. %s',
+    'Showing first <strong>%s</strong>.'=>'Showing first <strong>%s</strong>.',
+    'While searching %s found %s internet news. %s'=>'While searching %s found %s internet news. %s',
+    '%2$s Internet images were found when searching for "%1$s". %3$s'=>'%2$s Internet images were found when searching for "
+    'While searching "%1$s" found %2$s internet videos. %3$s'=>'While searching "%1$s" found %2$s internet videos. %3$s',
+    'Searching for "%1$s" found %2$s sound file. %3$s'=>'Searching for "%1$s" found %2$s sound file. %3$s',
+    'Under construction'=>'Under construction',
 );
 ?>
