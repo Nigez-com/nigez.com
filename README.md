@@ -1,5 +1,5 @@
 # nigez.com
-search engine
+Turkic Search Engine
 https://www.nigez.com/
 
 Help wanted with translation.
