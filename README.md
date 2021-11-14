@@ -10,4 +10,4 @@ Help wanted with translation.
 
 Thank you in advance.
 
-TODO: CAPTCHA words updates for each serviced language.
+Done: CAPTCHA words updates for each serviced language.
