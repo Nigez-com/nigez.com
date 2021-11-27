@@ -1,0 +1,25 @@
+{
+  "life": {
+    "aliases": [
+      "тормыш",
+      "hayat",
+      "élet"
+    ],
+    "sub": {
+      "lifestyle": {
+        "aliases": [
+          "életmód",
+          "яшәү рәвеше",
+          "yaşam tarzı"
+        ]
+      }
+    }
+  },
+  "world": {
+    "aliases": [
+      "dünya",
+      "дөнья",
+      "világ"
+    ]
+  }
+}
