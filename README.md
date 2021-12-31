@@ -9,5 +9,3 @@ Help wanted with translation.
 4) Submit pull request. https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
 
 Thank you in advance.
-
-Done: CAPTCHA words updates for each serviced language.
