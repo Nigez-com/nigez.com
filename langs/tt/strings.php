@@ -92,7 +92,7 @@ return $strings = array(
     "#Wwrtfwriasalttpfwaloc#"=>"Бу форманы алгач, без аны карап чыгабыз һәм раслау хаты белән түләү формасына сылтама җибәрәбез",
     "TATDig \"Search\""=>"ТАТДиг \"Эзләгеч\"",
     "Help system"=>"Ярдәм системы",
-    "What languages are indexed by TATDig \"Ezlәgech\""=>"ТАТДиг \"Эзләгеч\" тарафыннан нинди телләр индексләнә<!-- индексләнә &copy; TATDig -->",
+
     "How do I specify the language of a web page in HTML"=>"HTML\'да веб-битнең телен ничек аныклап куярга",
     "How to add a language to Firefox on an android smartphone"=>"Андроид смартфонында Firefox\'ка телне ничек өстәргә",
     "What categories are used in the news"=>"Яңалыкларда нинди категорияләр кулланыла",
@@ -201,7 +201,7 @@ return $strings = array(
     "#Waulwisu#"=>"Без сезнең интернет браузерыгызда урнаштырылган телләрне кулланабыз. Әгәр дә браузерның бер телен безнең вебсайт хезмәт итә икән, без бу телне сайтыбызны тәкъдим итү өчен кулланачакбыз.",
     "learn more"=>"тулырак",
     "hungarian"=>"hungarian",
-    "This site may be dangerous"=>"This site may be dangerous",
-    "What languages are indexed by TATDig \"Search\""=>"What languages are indexed by TATDig \"Search\"",
+    "This site may be dangerous"=>"Бу сайт зарарлы булырга мөмкин",
+    "What languages are indexed by TATDig \"Search\""=>"ТАТДиг \"Эзләгеч\" тарафыннан нинди телләр индексләнә<!-- индексләнә &copy; TATDig -->",
 );
 ?>
