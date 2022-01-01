@@ -200,7 +200,7 @@ return $strings = array(
     "How do we know which language to use for our website during your visit"=>"Сезнең визит вакытында безнең сайт өчен нинди тел кулланырга икәнен без кайдан беләбез",
     "#Waulwisu#"=>"Без сезнең интернет браузерыгызда урнаштырылган телләрне кулланабыз. Әгәр дә браузерның бер телен безнең вебсайт хезмәт итә икән, без бу телне сайтыбызны тәкъдим итү өчен кулланачакбыз.",
     "learn more"=>"тулырак",
-    "hungarian"=>"hungarian",
+    "hungarian"=>"венгр",
     "This site may be dangerous"=>"Бу сайт зарарлы булырга мөмкин",
     "What languages are indexed by TATDig \"Search\""=>"ТАТДиг \"Эзләгеч\" тарафыннан нинди телләр индексләнә<!-- индексләнә &copy; TATDig -->",
 );
