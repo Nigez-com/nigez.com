@@ -95,7 +95,7 @@ return $strings = array(
     'How do I specify the language of a web page in HTML'=>'HTML\\\'да веб-битнең телен ничек аныклап куярга',
     'How to add a language to Firefox on an android smartphone'=>'Андроид смартфонында Firefox\\\'ка телне ничек өстәргә',
     'What categories are used in the news'=>'Яңалыкларда нинди категорияләр кулланыла',
-    'Check indexing permission for \"TATDIG-CRAWLER\"'=>'\"TATDIG-CRAWLER\" өчен индексация рөхсәтен тикшерегә',
+    'Check indexing permission for "TATDIG-CRAWLER"'=>'"TATDIG-CRAWLER" өчен индексация рөхсәтен тикшерегә',
     'For HTML'=>'HTML өчен',
     'For XHTML'=>'XHTML өчен',
     'Planned: All Turkic languages'=>'Планлаштырылган: Барлык төрки телләр',
@@ -204,5 +204,6 @@ return $strings = array(
     'What languages are indexed by TATDig \"Search\"'=>'ТАТДиг \"Эзләгеч\" тарафыннан нинди телләр индексләнә<!-- индексләнә &copy; TATDig -->',
     'server encountered an error'=>'серверда хата очарашты',
     'interesting'=>'interesting',
+    'The title of the page is too short'=>'Битнең исеме бик кыска',
 );
 ?>
