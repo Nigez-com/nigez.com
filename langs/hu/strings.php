@@ -203,5 +203,7 @@ return $strings = array(
     'learn more'=>'learn more',
     'interesting'=>'interesting',
     'server encountered an error'=>'a szerver hibát észlelt',
+    'Mission statement of Nigez.com'=>'A Nigez.com küldetésnyilatkozata',
+    'To empower every Turkic nation on the planet to achieve more, develop better and preserve language, culture and traditions'=>'Hogy a bolygó minden török nemzetét képessé tegyük arra, hogy többet érjen el, fejlődjön és megőrizze nyelvét, kultúráját és hagyományait',
 );
 ?>

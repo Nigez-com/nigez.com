@@ -204,5 +204,7 @@ return $strings = array(
     'What languages are indexed by TATDig "Search"'=>'What languages are indexed by TATDig "Search"',
     'HTML code for graphic button "TATDig"'=>'HTML code for graphic button "TATDig"',
     'server encountered an error'=>'sunucusu bir hatayla karşılaştı',
+    'Mission statement of Nigez.com'=>'Nigez.com\'un misyon beyanı',
+    'To empower every Turkic nation on the planet to achieve more, develop better and preserve language, culture and traditions'=>'Gezegendeki her Türk milletini daha fazlasını başarmak, daha iyisini geliştirmek ve dilini, kültürünü ve geleneklerini korumak için güçlendirmek',
 );
 ?>

@@ -191,7 +191,7 @@ return $strings = array(
     'How to offer your site to the TATDig system'=>'How to offer your site to the TATDig system',
     'We use a semi-automatic program for entering new sites into the system'=>'We use a semi-automatic program for entering new sites into the system',
     'To participate, you must place the "TATDig" button on the main page of your site'=>'To participate, you must place the "TATDig" button on the main page of your site',
-    'HTML code for graphic button \"TATDig\"'=>'HTML code for graphic button \"TATDig\"',
+    'HTML code for graphic button "TATDig"'=>'HTML code for graphic button "TATDig"',
     'Confirmation and initial indexing can take from a week to two months'=>'Confirmation and initial indexing can take from a week to two months',
     '#pnttpit#'=>'Please note that to participate in the search engine "TATDig" your site must meet the <strong>conditions of participation</strong>',
     'Terms of participation in TATDig search index'=>'Terms of participation in TATDig search index',
@@ -209,5 +209,7 @@ return $strings = array(
     'How do we know which language to use for our website during your visit'=>'How do we know which language to use for our website during your visit',
     '#Waulwisu#'=>'We use the languages installed in your internet browser. And if one of the browser\'s languages is served by our website, then we will use that language to present our website.',
     'learn more'=>'learn more',
+    'Mission statement of Nigez.com'=>'Nigez.com-nyň missiýa beýany',
+    'To empower every Turkic nation on the planet to achieve more, develop better and preserve language, culture and traditions'=>'Planeter togalagynyň her bir türk milletine has köp zat gazanmak, has gowy ösmek we dil, medeniýet we däp-dessurlary gorap saklamak',
 );
 ?>

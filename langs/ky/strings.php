@@ -203,5 +203,7 @@ return $strings = array(
     'learn more'=>'learn more',
     'interesting'=>'interesting',
     'server encountered an error'=>'server encountered an error',
+    'Mission statement of Nigez.com'=>'Nigez.com миссиясынын билдирүүсү',
+    'To empower every Turkic nation on the planet to achieve more, develop better and preserve language, culture and traditions'=>'Планетадагы ар бир түрк элине дагы көп нерсеге жетишүүгө, жакшыраак өнүгүүгө жана тилин, маданиятын жана каада-салтын сактоого мүмкүнчүлүк берүү',
 );
 ?>
