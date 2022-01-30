@@ -7,3 +7,6 @@
 [submodule "langs/de"]
 	path = langs/de
 	url = git@github.com:Nigez-com/de.git
+[submodule "langs/hu"]
+	path = langs/hu
+	url = git@github.com:Nigez-com/hu.git
