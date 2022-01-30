@@ -37,3 +37,6 @@
 [submodule "langs/uz"]
 	path = langs/uz
 	url = git@github.com:Nigez-com/uz.git
+[submodule "langs/zh"]
+	path = langs/zh
+	url = git@github.com:Nigez-com/zh.git
