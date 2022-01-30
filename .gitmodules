@@ -1,0 +1,3 @@
+[submodule "langs/az"]
+	path = langs/az
+	url = git@github.com:Nigez-com/az.git
