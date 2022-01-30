@@ -204,5 +204,9 @@ return $strings = array(
     'learn more'=>'learn more',
     'Mission statement of Nigez.com'=>'Nigez.com миссиясының мәлімдемесі',
     'To empower every Turkic nation on the planet to achieve more, develop better and preserve language, culture and traditions'=>'Жер бетіндегі әрбір түркі ұлтының көп жетістіктерге жетуіне, жақсырақ дамуына, тілін, мәдениеті мен дәстүрін сақтауға мүмкіндік беру',
+    'How do you rate this article'=>'Сіз бұл мақаланы қалай бағалайсыз',
+    'Rating'=>'Рейтинг',
+    'signin'=>'signin',
+    'Signin to access system advanced features'=>'Signin to access system advanced features',
 );
 ?>

@@ -200,10 +200,14 @@ return $strings = array(
     'source'=>'source',
     'How do we know which language to use for our website during your visit'=>'How do we know which language to use for our website during your visit',
     '#Waulwisu#'=>'We use the languages installed in your internet browser. And if one of the browser\'s languages is served by our website, then we will use that language to present our website.',
-    'learn more'=>'learn more',
-    'interesting'=>'interesting',
-    'server encountered an error'=>'server encountered an error',
+    'learn more'=>'batafsil ma\'lumot',
+    'interesting'=>'qiziqarli',
+    'server encountered an error'=>'server xatolikka duch keldi',
     'Mission statement of Nigez.com'=>'Nigez.com missiyasi bayonoti',
     'To empower every Turkic nation on the planet to achieve more, develop better and preserve language, culture and traditions'=>'Sayyoramizdagi har bir turkiy xalqning yanada ko‘proq yutuqlarga erishishi, yanada yaxshiroq rivojlanishi, tili, madaniyati va an’analarini asrab-avaylashi uchun imkoniyatlar yaratish',
+    'How do you rate this article'=>'Ushbu maqolani qanday baholaysiz',
+    'Rating'=>'Reyting',
+    'signin'=>'tizimga kirish',
+    'Signin to access system advanced features'=>'Kengaytirilgan tizim funksiyalariga kirish uchun tizimga kiring',
 );
 ?>

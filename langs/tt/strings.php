@@ -207,7 +207,9 @@ return $strings = array(
     'The title of the page is too short'=>'Битнең исеме бик кыска',
     'Mission statement of Nigez.com'=>'Nigez.com миссиясе',
     'To empower every Turkic nation on the planet to achieve more, develop better and preserve language, culture and traditions'=>'Планетасындагы һәр төрки халыкка күбрәк нәрсәгә ирешү, яхшырак үсеш һәм тел, мәдәният һәм гореф-гадәтләрне саклау',
-    'signin'=>'signin',
-    'Signin to access system advanced features'=>'Signin to access system advanced features',
+    'How do you rate this article'=>'Сез бу мәкаләне ничек бәялисез',
+    'Rating'=>'Рейтинг',
+    'signin'=>'керегез',
+    'Signin to access system advanced features'=>'Системаның алдынгы функцияләренә керү өчен керегез',
 );
 ?>

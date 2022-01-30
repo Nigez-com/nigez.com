@@ -211,5 +211,9 @@ return $strings = array(
     'learn more'=>'learn more',
     'Mission statement of Nigez.com'=>'Nigez.com-nyň missiýa beýany',
     'To empower every Turkic nation on the planet to achieve more, develop better and preserve language, culture and traditions'=>'Planeter togalagynyň her bir türk milletine has köp zat gazanmak, has gowy ösmek we dil, medeniýet we däp-dessurlary gorap saklamak',
+    'How do you rate this article'=>'Bu makalany nädip baha berýärsiňiz',
+    'Rating'=>'Reýting',
+    'signin'=>'hasabyňyza giriň',
+    'Signin to access system advanced features'=>'Ulgamyň ösen aýratynlyklaryna girmek üçin giriň',
 );
 ?>

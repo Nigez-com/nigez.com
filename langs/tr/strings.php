@@ -92,7 +92,7 @@ return $strings = array(
     '#Wwrtfwriasalttpfwaloc#'=>'Bu formu aldığımızda, inceliyoruz ve bir onay mektubu ile ödeme formuna bir bağlantı gönderiyoruz',
     'TATDig "Search"'=>'TATDig "Arama"',
     'Help system'=>'Yardım sistemi',
-    'What languages are indexed by TATDig "Ezlәgech"'=>'TATDig "Ezlәgech" tarafından hangi diller endekslenir',
+    'What languages are indexed by TATDig "Search"'=>'TATDig "Ezlәgech" tarafından hangi diller endekslenir',
     'How do I specify the language of a web page in HTML'=>'HTML\'de bir web sayfasının dilini nasıl belirleyebilirim',
     'How to add a language to Firefox on an android smartphone'=>'Bir android akıllı telefonda Firefox\'a nasıl dil eklenir',
     'What categories are used in the news'=>'Haberlerde hangi kategoriler kullanılıyor',
@@ -206,5 +206,9 @@ return $strings = array(
     'server encountered an error'=>'sunucusu bir hatayla karşılaştı',
     'Mission statement of Nigez.com'=>'Nigez.com\'un misyon beyanı',
     'To empower every Turkic nation on the planet to achieve more, develop better and preserve language, culture and traditions'=>'Gezegendeki her Türk milletini daha fazlasını başarmak, daha iyisini geliştirmek ve dilini, kültürünü ve geleneklerini korumak için güçlendirmek',
+    'How do you rate this article'=>'Bu makaleyi nasıl değerlendirirsiniz',
+    'Rating'=>'Değerlendirme',
+    'signin'=>'kayıt olmak',
+    'Signin to access system advanced features'=>'Sistemin gelişmiş özelliklerine erişmek için oturum açın',
 );
 ?>

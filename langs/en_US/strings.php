@@ -208,5 +208,9 @@ return $strings = array(
     'Signin to access system advanced features'=>'Signin to access system advanced features',
     'Mission statement of Nigez.com'=>'Mission statement of Nigez.com',
     'To empower every Turkic nation on the planet to achieve more, develop better and preserve language, culture and traditions'=>'To empower every Turkic nation on the planet to achieve more, develop better and preserve language, culture and traditions',
+    'How do you rate this article'=>'How do you rate this article',
+    'Rating'=>'Rating',
+    'signin'=>'signin',
+    'Signin to access system advanced features'=>'Signin to access system advanced features',
 );
 ?>
