@@ -22,3 +22,6 @@
 [submodule "langs/sah"]
 	path = langs/sah
 	url = git@github.com:Nigez-com/sah.git
+[submodule "langs/tk"]
+	path = langs/tk
+	url = git@github.com:Nigez-com/tk.git
