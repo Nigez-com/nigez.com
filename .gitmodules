@@ -19,3 +19,6 @@
 [submodule "langs/ru"]
 	path = langs/ru
 	url = git@github.com:Nigez-com/ru.git
+[submodule "langs/sah"]
+	path = langs/sah
+	url = git@github.com:Nigez-com/sah.git
