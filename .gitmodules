@@ -13,3 +13,6 @@
 [submodule "langs/kk"]
 	path = langs/kk
 	url = git@github.com:Nigez-com/kk.git
+[submodule "langs/ky"]
+	path = langs/ky
+	url = git@github.com:Nigez-com/ky.git
