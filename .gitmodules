@@ -25,3 +25,6 @@
 [submodule "langs/tk"]
 	path = langs/tk
 	url = git@github.com:Nigez-com/tk.git
+[submodule "langs/tr"]
+	path = langs/tr
+	url = git@github.com:Nigez-com/tr.git
