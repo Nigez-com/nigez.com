@@ -4,3 +4,6 @@
 [submodule "langs/cv"]
 	path = langs/cv
 	url = git@github.com:Nigez-com/cv.git
+[submodule "langs/de"]
+	path = langs/de
+	url = git@github.com:Nigez-com/de.git
