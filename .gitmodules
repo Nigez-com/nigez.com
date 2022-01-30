@@ -28,3 +28,6 @@
 [submodule "langs/tr"]
 	path = langs/tr
 	url = git@github.com:Nigez-com/tr.git
+[submodule "langs/tt"]
+	path = langs/tt
+	url = git@github.com:Nigez-com/tt.git
