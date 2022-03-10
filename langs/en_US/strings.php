@@ -221,5 +221,7 @@ return $strings = array(
     'password'=>'password',
     'signature'=>'signature',
     'Already registered?'=>'Already registered?',
+    'internet'=>'internet',
+    'TATDig Turkic search engine'=>'TATDig Turkic search engine',
 );
 ?>
